@@ -9,4 +9,4 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 - Flexbox
 - Positioning
 - Vertical stacking with z-index
-- CSS
+
