@@ -1,7 +1,6 @@
-# Project 1: Triple Peaks Library
+# Triple Peaks Library
 
-The Triple Peaks Library webpage is the first project in the Software Engineering
-program at TripleTen. It was created using HTML and CSS, based on a design brief.
+A responsive library landing page built with HTML and CSS from a provided design brief.
 
 ## Project features
 
@@ -9,4 +8,3 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 - Flexbox
 - Positioning
 - Vertical stacking with z-index
-
